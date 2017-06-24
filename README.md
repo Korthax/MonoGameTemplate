@@ -17,6 +17,10 @@ This repository contains the templating code to create an project using the amaz
 3. Create a new project ```dotnet new monogame [--name Name]```
 
 ### From NuGet
-1. Install the template ```dotnet new -i [path\to\repository]\content```
+1. Install the template ```dotnet new -i MonoGameTemplate::*```
     * Make sure the path does not end in a ```\``` else the template install will fail silently
 2. Create a new project ```dotnet new monogame [--name Name]```
+
+## General Notes
+
+I've created this template for my own use to speed up adding a new monogame project. Use at your own risk :)
