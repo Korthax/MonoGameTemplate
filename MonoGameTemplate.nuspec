@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>MonoGameTemplate</id>
+    <version>0.1.0</version>
+    <authors>Stephen Phillips</authors>
+    <title>MonoGame DotNet New Template</title>
+    <description>dotnet new template for MonoGame 3.6</description>
+    <projectUrl>https://github.com/Korthax/MonoGameTemplate</projectUrl>
+    <licenseUrl>https://raw.githubusercontent.com/Korthax/MonoGameTemplate/master/LICENSE.md</licenseUrl>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+</package>

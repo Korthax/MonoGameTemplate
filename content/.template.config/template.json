@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Stephen Phillips",
+  "classifications": [ "MonoGame 3.6" ],
+  "name": "MonoGame",
+  "identity": "MonoGameTemplate",
+  "shortName": "monogame",
+  "classifications": ["MonoGame"],
+  "guids": [ "62aad3ec-2c1f-49cc-a002-e32ba2c2945f" ],
+  "tags": {
+    "language": "C#"
+  },
+  "sourceName": "Template"
+}
