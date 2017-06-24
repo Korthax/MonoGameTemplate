@@ -2,6 +2,10 @@
 
 This repository contains the templating code to create an project using the amazing [MonoGame](http://www.monogame.net/) framework.
 
+## Requirements
+* [MonoGame 3.6](http://www.monogame.net/2017/03/01/monogame-3-6/)
+* [.NET Core cli](https://www.microsoft.com/net/core#windowsvs2017)
+
 ## Usage
 ### From Source
 1. Clone the repository
